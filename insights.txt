@@ -1,0 +1,13 @@
+Coffee Sales Insights
+======================
+Total rows: 3547
+Total revenue: 112245.58
+Average ticket: 31.65
+
+Top 5 drinks by revenue:
+coffee_name
+Latte                  26875.30
+Americano with Milk    24751.12
+Cappuccino             17439.14
+Americano              14650.26
+Hot Chocolate           9933.46
