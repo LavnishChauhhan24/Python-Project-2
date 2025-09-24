@@ -1,6 +1,5 @@
-# Coffee Sales Analysis (Beginner)
-
-A step-by-step, beginner-friendly data analysis of coffee sales using Python and Jupyter Notebook.
+# Coffee Sales Analysis
+A beginner-friendly data analysis of coffee sales using Python and Jupyter Notebook.
 
 ## Contents
 - `coffee_sales_analysis.ipynb`: main notebook with cleaning and EDA
@@ -9,7 +8,7 @@ A step-by-step, beginner-friendly data analysis of coffee sales using Python and
 - `.gitignore`: ignore rules
 
 ## Quickstart
-1. (Recommended) Create virtual environment
+1. Create virtual environment
    - Windows PowerShell:
      ```powershell
      python -m venv venv
@@ -36,3 +35,4 @@ File: `Coffe_sales.csv` (included). Columns include hour, payment type, amount, 
 
 ## License
 For learning and portfolio use. If you use this, please credit this repository.
+
